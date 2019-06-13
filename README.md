@@ -1,4 +1,4 @@
 # dbappusingphp
 Little php application with mysql/mariadb database
 
-Usage: Install in /var/www/html and load database backup in mariadb.
+Usage: Copy in document root of virtualhost, load database and configure connection string.
