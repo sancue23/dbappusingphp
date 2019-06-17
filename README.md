@@ -1,4 +1,4 @@
 # dbappusingphp
 Little php application with mysql/mariadb database
 
-Usage: Copy in document root of virtualhost, load database and configure connection string.
+ATENCION: El código no es compatible con la version de PHP
